@@ -19,7 +19,7 @@
    <a href="https://www.linkedin.com/in/rahul-singh-707273302">
     <img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      
-### Tech Stack
+### 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

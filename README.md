@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
+
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on projects 
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: rahulsingh.rns90@gmail.com 
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 <!--
 **rahulrns02/rahulrns02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-  
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/rahulrns02">
